@@ -1,0 +1,5 @@
+<?php
+
+// slienc is gold.
+
+?>

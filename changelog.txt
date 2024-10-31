@@ -1,0 +1,16 @@
+= 1.2.2 =
+* WP-Version Update
+
+= 1.2.1 =
+* Bugfix
+
+= 1.2.0 =
+* Tracking correction
+* Bugfix
+
+= 1.1.0 =
+* Tracking correction
+* Bugfix
+
+= 1.0.0 =
+* Initial Release
